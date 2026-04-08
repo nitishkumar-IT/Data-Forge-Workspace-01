@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000/api";
+const API_URL = "https://data-forge-workspace-01.onrender.com//api";
 
 function getToken() {
   return localStorage.getItem("data_forge_token");
